@@ -1,5 +1,5 @@
 # Set the base image
-FROM php:7.0-apache
+FROM php:7.1-apache
 
 # File Author / Maintainer
 MAINTAINER Cyrill Kulka
